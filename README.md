@@ -1,4 +1,4 @@
-Let’s take a step back…
+:wavy_dash: Let’s take a step back… :wavy_dash:
 
 ## Current Approach: Open Source Software 
 ### Individual: gains, losses
