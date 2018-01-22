@@ -3,9 +3,11 @@
 ### Current Approach: Open Source Software 
 ##### In the open source software model, software is susceptible to any change. It also means that the software sells for free of charge and can be used for any purpose, including being sold for profit. There are three rights that people have when using open source software: “the right to make copies of the program and distribute those copies, the right to have access to the software’s source code, and the right to make improvements to the program”. #####
   
-#### Individual: :heavy_plus_sign: / :heavy_minus_sign:
-Losses:  
-:heavy_minus_sign: Open source requires high cost of maintenance, that would make open source unacceptable for small businesses
+Open Source Losses:  
+:heavy_minus_sign: additional maintenance costs  
+:heavy_minus_sign: unfair conditions for small companies vs. large companies  
+:heavy_minus_sign: inability to solve the hardware/software mismatch  
+  
 
 #### Corporation: gains, losses
 
