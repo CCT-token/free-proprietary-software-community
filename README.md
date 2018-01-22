@@ -26,6 +26,8 @@ How does FPSL help developers?:
 Community / sub-communities:  
 Token/tokens:  
 Explain in lamen-term, how the process would be for a token to pay for a piece of software, from payment, to delivery , to execution of the code, in which environments, etc
+
+# Free Proprietary Software Community (FPSC) Example
 “Fake” example of what the community will look like, explaining how the license works
-Address: “One thing that jumps at me is if people are able to still copy code, what is the actual protection? Or how  is anti-piracy going to be enforced? Or maybe piracy is a non-issue. Either way needs to be discussed”
+
 
