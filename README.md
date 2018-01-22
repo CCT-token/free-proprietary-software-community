@@ -22,4 +22,4 @@ Open Source Disadvantages:
 ###### This particular model motivates our Community: ######  
 ***  
 # Free Proprietary Software Community
-***  
+:wavy_dash: a community with sub-communitues and no central system for those sub-communities.
