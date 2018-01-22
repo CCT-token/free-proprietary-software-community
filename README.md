@@ -1,5 +1,5 @@
+***  
 :wavy_dash: Let’s take a step back :wavy_dash:
-
 ### :black_small_square: Current Approach: Open Source Software 
 ##### In the open source software model, software is susceptible to any change. It also means that the software sells for free of charge and can be used for any purpose, including being sold for profit. There are three rights that people have when using open source software: “the right to make copies of the program and distribute those copies, the right to have access to the software’s source code, and the right to make improvements to the program”. #####
   
@@ -22,4 +22,4 @@ Open Source Disadvantages:
 ###### This particular model motivates our Community: ######  
 ***  
 # Free Proprietary Software Community
-:wavy_dash: a community with sub-communitues and no central system for those sub-communities.
+:wavy_dash: a community with sub-communitues and no central system for those sub-communities :wavy_dash:  
