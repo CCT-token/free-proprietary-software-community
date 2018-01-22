@@ -20,13 +20,23 @@ The success of open source was driven by ideas to improve proprietary software. 
 ***  
 # Free Proprietary Software Community (FPSC)
 :wavy_dash: a community with sub-communitues and no central system for those sub-communities :wavy_dash:  
+  
+Below is a quick overview of the FPSC. All details are in the whitepaper. Please read it for detailed understanding of the invention.  
+  
+#### What is FPSC?:  
+The Free Proprietary Software Community is dedicated for software developers to perform their software development work in a decentralized manner without having traditional corporations. We named the community to depict the overall fact that it is a community based on free proprietary software. A community for software developers organized by all sharing a common license, FPSL, and having dedicated Ethereum coins for the software/products they create. Purpose of FPSC is to incentivize developers to do more work for themselves since they get paid directly for the software they created. Those payments can be performed though Ethereum coins, including CCT token for CCS products, or fiat currencies.  
+  
+#### How does FPSL help developers?:  
+The FPSL is exactly the same as GNU GPL v3.0 for any software research and development. In accordance with FPSL, FPSC software is patent protected. As a result, all FPSC software that is distributed for profit, is under subject to a custom license agreement setting a fee structure for all involved parties. Currently, only one patent is listed in the FPSL. As FPSC grows, more patents will be added. 
 
-What is FPSC?:  
-How does FPSL help developers?:  
-Community / sub-communities:  
-Token/tokens:  
-Explain in lamen-term, how the process would be for a token to pay for a piece of software, from payment, to delivery , to execution of the code, in which environments, etc
+FPSL is an attempt to address the main problem of the open source model: developers produce software that they no longer have ownership to and in result have no economic advantages. The idea for FPSL is that it will create conditions for developers to be directly rewarded for the software they create. 
 
+#### Community / sub-communities:  
+The Free Proprietary Software Community will be completely decentralized, including both the software products built and the software business run. To leverage the Ethereum platform DAO capabilities, we encourage FPSC members to create custom tokens for the corresponding software they build. The Free Proprietary Software Community will start with the Compiler Compiler Technology Token (CCT Token) to bootstrap the Compiler Compiler System. The C++ version of the Compiler Compiler System (CCS) is already developed and the corresponding papers, source code, and FPSL are published on GitHub (https://github.com/cctToken/compiler-compiler-technology).  
+
+#### Token/tokens:  
+FPSC is powered by the CCT Token, but it is not the single token within FPSC. FPSC is considered as a collection of different groups and software products. They could be related to each other or can be completely independent. The CCT Token aspires to create a variety of other tokens. What makes those sub-communities with their own token to be a part of FPSC is sharing a common business model, that is based on FPSL and Ethereum usage. The idea is to create a decentralized network of developers.  
+  
 # Free Proprietary Software Community (FPSC) Example
 “Fake” example of what the community will look like, explaining how the license works
 To start off, the first sub-community within FPSC is Compiler Compiler Technology and its corresponding token, CCT Token. 
