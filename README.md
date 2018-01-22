@@ -21,7 +21,7 @@ The success of open source was driven by ideas to improve proprietary software. 
 # Free Proprietary Software Community (FPSC)
 :wavy_dash: a community with sub-communitues and no central system for those sub-communities :wavy_dash:  
   
-Below is a quick overview of the FPSC. All details are in the whitepaper. Please read it for detailed understanding of the invention.  
+Below is a quick overview of the FPSC. All details are in the [white paper](https://github.com/CCT-token/free-proprietary-software-community/blob/master/FPSC_white_paper.pdf). Please read it for detailed understanding of the invention.  
   
 #### What is FPSC?:  
 The Free Proprietary Software Community is dedicated for software developers to perform their software development work in a decentralized manner without having traditional corporations. We named the community to depict the overall fact that it is a community based on free proprietary software. A community for software developers organized by all sharing a common license, FPSL, and having dedicated Ethereum coins for the software/products they create. Purpose of FPSC is to incentivize developers to do more work for themselves since they get paid directly for the software they created. Those payments can be performed though Ethereum coins, including CCT token for CCS products, or fiat currencies.  
