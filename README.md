@@ -34,7 +34,7 @@ FPSL is an attempt to address the main problem of the open source model: develop
 #### Community / sub-communities:  
 The Free Proprietary Software Community will be completely decentralized, including both the software products built and the software business run. To leverage the Ethereum platform DAO capabilities, we encourage FPSC members to create custom tokens for the corresponding software they build. The Free Proprietary Software Community will start with the Compiler Compiler Technology Token (CCT Token) to bootstrap the Compiler Compiler System. The C++ version of the Compiler Compiler System (CCS) is already developed and the corresponding papers, source code, and FPSL are published on GitHub (https://github.com/cctToken/compiler-compiler-technology).  
 
-#### Token/tokens:  
+#### Token / tokens:  
 FPSC is powered by the CCT Token, but it is not the single token within FPSC. FPSC is considered as a collection of different groups and software products. They could be related to each other or can be completely independent. The CCT Token aspires to create a variety of other tokens. What makes those sub-communities with their own token to be a part of FPSC is sharing a common business model, that is based on FPSL and Ethereum usage. The idea is to create a decentralized network of developers.  
 
 
