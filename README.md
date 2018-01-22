@@ -29,5 +29,6 @@ Explain in lamen-term, how the process would be for a token to pay for a piece o
 
 # Free Proprietary Software Community (FPSC) Example
 “Fake” example of what the community will look like, explaining how the license works
+To start off, the first sub-community within FPSC is Compiler Compiler Technology and its corresponding token, CCT Token. 
 
 
